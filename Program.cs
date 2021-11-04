@@ -124,7 +124,7 @@ namespace ConsoleGB
         static void taskfourWithTwoVariable()
         {
             Console.Clear();
-            collorUserMessege("Замена переменных местами без использования третей переменной");
+            collorUserMessege("Замена переменных местами без использования третей переменной ");
             Console.WriteLine("Введите переменную a ");
             int varA = int.Parse(Console.ReadLine());
             Console.WriteLine("Введите переменную b ");
